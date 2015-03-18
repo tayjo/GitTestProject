@@ -4,5 +4,9 @@ public class GitTest {
 
 	public static void main(String args[]) {
 		System.out.println("Hello world");
-	}	
+	}
+	
+	public static void joshMethod() {
+		System.out.println("Josh says 'hello!'");
+	}
 }
