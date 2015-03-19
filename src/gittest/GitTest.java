@@ -9,4 +9,8 @@ public class GitTest {
 	public static void joshMethod() {
 		System.out.println("Josh says 'hello!'");
 	}
+
+	public static void helenMethod() {
+		System.out.println("Helen says 'hi!'");
+	}
 }
