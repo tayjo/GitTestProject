@@ -17,4 +17,8 @@ public class GitTest {
 	public static void jMethodTwo() {
 		int josh = 1;
 	}
+
+	public static void hMethodTwo() {
+		int helen = 0;
+	}
 }
