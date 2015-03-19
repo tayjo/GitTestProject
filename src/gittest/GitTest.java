@@ -13,4 +13,8 @@ public class GitTest {
 	public static void helenMethod() {
 		System.out.println("Helen says 'hi!'");
 	}
+	
+	public static void jMethodTwo() {
+		int josh = 1;
+	}
 }
